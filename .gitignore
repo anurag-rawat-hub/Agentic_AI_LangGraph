@@ -1,2 +1,3 @@
 2_llm_workflow/.env
 venv/
+3_prompt_chaining/.env
