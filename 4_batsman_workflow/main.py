@@ -39,7 +39,8 @@ def calculate_boundary_percent(state: BatsmanState):
 def summary(state: BatsmanState):
 
     summary = f"""Strike Rate - {state['sr']} \nBalls per boundary - {state['bpb']} \nBoundary percent - {state['boundary_percent']}"""
-    
+
+    #partial update
     return {'summary': summary}
 
 
