@@ -3,3 +3,4 @@ venv/
 3_prompt_chaining/.env
 5_UPSC_essay_eval/.env
 7_review_handling/.env
+8_X_post_generator/.env
