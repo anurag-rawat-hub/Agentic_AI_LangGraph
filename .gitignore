@@ -5,3 +5,4 @@ venv/
 7_review_handling/.env
 8_X_post_generator/.env
 9_chatbot/.env
+10_tools/.env
